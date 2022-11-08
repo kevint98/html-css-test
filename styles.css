@@ -1,0 +1,22 @@
+nav {
+  background-image: linear-gradient(to right, #05224e, #335588);
+}
+
+ul a:link {
+  color: white;
+}
+
+nav > .container {
+  margin-left: 20px;
+}
+
+.nav {
+  margin-right: 20px;
+}
+
+#event-status {
+  text-align: center;
+  width: 100%;
+  background-color: rgb(243, 94, 119);
+  color: white;
+}
